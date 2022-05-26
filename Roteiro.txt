@@ -1,0 +1,35 @@
+Produto
+Código Interno, Descrição, Código do Fornecedor, Marca, Unidade de Venda, Valor Unitário, Valor Unitário,
+
+Fornecedor
+Código Fornecedor Nome do fornecedor, Telefone, Contato, Data da última compra, Alterado por
+
+Orçamento Matriz
+Código	Cód.Prod	Descrição	Unidade	Qtd	Vl.Unit.	Vl.Total
+
+Orçamentos Salvos
+Número do Orçamento 	Código Interno	Código do Produto	Descrição	Unidade	Quantidade	Vl. Unitário	Vl. Total
+
+LISTAS
+Produtos 	Código Fornecedor		Dias de validade da proposta
+
+
+DIFERENTES:
+
+Produto**
+Código Interno, Descrição, Código do Fornecedor, Marca, Unidade de Venda, Valor Unitário, Valor Unitário,
+
+Fornecedor**
+Código Fornecedor Nome do fornecedor, Telefone, Contato, Data da última compra, Alterado por
+
+Orçamento Matriz--
+Código	Cód.Prod	Descrição	Unidade	Qtd	Vl.Unit.	Vl.Total
+
+Orçamentos Salvos--
+Número do Orçamento 	Código Interno	Código do Produto	Descrição	Unidade	Quantidade	Vl. Unitário	Vl. Total
+
+LISTAS --
+Produtos 	Código Fornecedor		Dias de validade da proposta
+
+
+
