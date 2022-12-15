@@ -1,0 +1,13 @@
+txt_codigo_interno
+txt_descricao
+txt_cod_fornecedor
+lista_marca
+lista_unid_venda
+txt_val_unitario
+
+
+cadastro_produto
+
+&H005A2D22&
+Sheets("Senha").Range("F2").Value = txt_usuario
+    
